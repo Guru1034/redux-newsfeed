@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-newsfeed/static/css/main.18c10944.chunk.css",
-    "main.js": "/react-newsfeed/static/js/main.9337d576.chunk.js",
-    "main.js.map": "/react-newsfeed/static/js/main.9337d576.chunk.js.map",
-    "runtime-main.js": "/react-newsfeed/static/js/runtime-main.9a8bd8ef.js",
-    "runtime-main.js.map": "/react-newsfeed/static/js/runtime-main.9a8bd8ef.js.map",
-    "static/js/2.77eb5291.chunk.js": "/react-newsfeed/static/js/2.77eb5291.chunk.js",
-    "static/js/2.77eb5291.chunk.js.map": "/react-newsfeed/static/js/2.77eb5291.chunk.js.map",
-    "index.html": "/react-newsfeed/index.html",
-    "precache-manifest.37c8362f7042da64da9718d9df2f1583.js": "/react-newsfeed/precache-manifest.37c8362f7042da64da9718d9df2f1583.js",
-    "service-worker.js": "/react-newsfeed/service-worker.js",
-    "static/css/main.18c10944.chunk.css.map": "/react-newsfeed/static/css/main.18c10944.chunk.css.map",
-    "static/js/2.77eb5291.chunk.js.LICENSE.txt": "/react-newsfeed/static/js/2.77eb5291.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-newsfeed/static/media/logo.5d5d9eef.svg"
+    "main.css": "/redux-newsfeed/static/css/main.18c10944.chunk.css",
+    "main.js": "/redux-newsfeed/static/js/main.9337d576.chunk.js",
+    "main.js.map": "/redux-newsfeed/static/js/main.9337d576.chunk.js.map",
+    "runtime-main.js": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js",
+    "runtime-main.js.map": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js.map",
+    "static/js/2.77eb5291.chunk.js": "/redux-newsfeed/static/js/2.77eb5291.chunk.js",
+    "static/js/2.77eb5291.chunk.js.map": "/redux-newsfeed/static/js/2.77eb5291.chunk.js.map",
+    "index.html": "/redux-newsfeed/index.html",
+    "precache-manifest.bc1c6be57066057c8ff15d9f772c02e0.js": "/redux-newsfeed/precache-manifest.bc1c6be57066057c8ff15d9f772c02e0.js",
+    "service-worker.js": "/redux-newsfeed/service-worker.js",
+    "static/css/main.18c10944.chunk.css.map": "/redux-newsfeed/static/css/main.18c10944.chunk.css.map",
+    "static/js/2.77eb5291.chunk.js.LICENSE.txt": "/redux-newsfeed/static/js/2.77eb5291.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-newsfeed/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a8bd8ef.js",
+    "static/js/runtime-main.c8205b1c.js",
     "static/js/2.77eb5291.chunk.js",
     "static/css/main.18c10944.chunk.css",
     "static/js/main.9337d576.chunk.js"
