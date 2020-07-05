@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bce6ed22b78d1e5813ccec184cc91e5",
+    "revision": "947f7fecaed53d6d5ef6962bbe6f4ba0",
     "url": "/redux-newsfeed/index.html"
   },
   {
-    "revision": "dc3a706cdbf496f875cf",
+    "revision": "176aa0836506f80229b0",
     "url": "/redux-newsfeed/static/css/main.18c10944.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redux-newsfeed/static/js/2.77eb5291.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc3a706cdbf496f875cf",
-    "url": "/redux-newsfeed/static/js/main.9337d576.chunk.js"
+    "revision": "176aa0836506f80229b0",
+    "url": "/redux-newsfeed/static/js/main.a8a3b3c2.chunk.js"
   },
   {
     "revision": "29f5db5410854c9941f5",
