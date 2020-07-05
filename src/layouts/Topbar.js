@@ -62,12 +62,14 @@ export default function Header(props) {
                 <form className="form-inline"  style={styles.searchContainer}>
                     <input className="form-control mr-sm-2" 
                         type="search" 
-                        placeholder="Search" 
+                        placeholder="Search..." 
                         aria-label="Search"
                         ref={keywordRef}
                         onChange={onValueChange}/>
-                    <button className="btn btn-outline-success my-2 my-sm-0" 
-                        onClick={executeSearch}>Search</button>
+                    <button className="btn my-2 my-sm-0" 
+                        onClick={executeSearch} style={{width:'fit-content'}}>
+                            <i className="fa fa-search" />
+                        </button>
                 </form>
             </nav>
         </>
