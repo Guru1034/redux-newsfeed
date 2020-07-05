@@ -15,7 +15,7 @@ export default function NewsItem(props) {
     return (
              <div className="flex-item card mb-3" onClick={gotoNewsArticle}>
                         <img className="card-img-top" 
-                             src={newsItem.urlToImage ? newsItem.urlToImage : logo} 
+                             src={newsItem.image ? newsItem.image : logo} 
                              alt="News Item" 
                              style={{height:'200px'}}/>
                         <div className="card-body">
