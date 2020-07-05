@@ -16,7 +16,7 @@ export default function NewsFeeds(props) {
     },[newsItems]);  
 
     return (
-        <div className="news-container container">
+        <div className="news-container">
             {newsItems.map( (item,index) => {
                 return(
                     <React.Fragment key={index}>
