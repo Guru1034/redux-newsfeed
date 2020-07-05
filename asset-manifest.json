@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/redux-newsfeed/static/css/main.fca128cb.chunk.css",
-    "main.js": "/redux-newsfeed/static/js/main.a1a719aa.chunk.js",
-    "main.js.map": "/redux-newsfeed/static/js/main.a1a719aa.chunk.js.map",
+    "main.css": "/redux-newsfeed/static/css/main.b598513d.chunk.css",
+    "main.js": "/redux-newsfeed/static/js/main.b8b9c95e.chunk.js",
+    "main.js.map": "/redux-newsfeed/static/js/main.b8b9c95e.chunk.js.map",
     "runtime-main.js": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js",
     "runtime-main.js.map": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js.map",
     "static/js/2.77eb5291.chunk.js": "/redux-newsfeed/static/js/2.77eb5291.chunk.js",
     "static/js/2.77eb5291.chunk.js.map": "/redux-newsfeed/static/js/2.77eb5291.chunk.js.map",
     "index.html": "/redux-newsfeed/index.html",
-    "precache-manifest.1a83d02c9551ea1da0fccf752f88e749.js": "/redux-newsfeed/precache-manifest.1a83d02c9551ea1da0fccf752f88e749.js",
+    "precache-manifest.fba4bdfe4ccd689ca44198c369a10fff.js": "/redux-newsfeed/precache-manifest.fba4bdfe4ccd689ca44198c369a10fff.js",
     "service-worker.js": "/redux-newsfeed/service-worker.js",
-    "static/css/main.fca128cb.chunk.css.map": "/redux-newsfeed/static/css/main.fca128cb.chunk.css.map",
+    "static/css/main.b598513d.chunk.css.map": "/redux-newsfeed/static/css/main.b598513d.chunk.css.map",
     "static/js/2.77eb5291.chunk.js.LICENSE.txt": "/redux-newsfeed/static/js/2.77eb5291.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/redux-newsfeed/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8205b1c.js",
     "static/js/2.77eb5291.chunk.js",
-    "static/css/main.fca128cb.chunk.css",
-    "static/js/main.a1a719aa.chunk.js"
+    "static/css/main.b598513d.chunk.css",
+    "static/js/main.b8b9c95e.chunk.js"
   ]
 }
