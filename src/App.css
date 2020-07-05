@@ -69,6 +69,7 @@
   transform: scale(1.01);
   transition: 0.3s ease;
   cursor: pointer;
+  background-color: ghostwhite;
 }
 
 .list-group{
@@ -119,6 +120,10 @@
   .sidebar-style.show{
     transform: translateX(-10px);
     z-index: 1;
+  }
+
+  .navbar{
+    min-width: 360px;
   }
 
   .navbar-brand{
