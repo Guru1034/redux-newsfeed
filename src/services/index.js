@@ -1,7 +1,7 @@
 import Axios from 'axios';
 // 9a6674bf15bab6a11b3752f09986d972
 // 9583d0b81a2dec03f895b4a5d6b7d439
-const API_KEY = '9583d0b81a2dec03f895b4a5d6b7d439';
+const API_KEY = '9a6674bf15bab6a11b3752f09986d972';
 
 const NewsService = {
         getTopHeadlines: function() {
