@@ -26,7 +26,6 @@ export default function Header(props) {
 
     function onValueChange() {
         keyword = keywordRef.current.value;
-        console.log('Keyword is', keyword);
         if(keyword === '') return
     }
 
