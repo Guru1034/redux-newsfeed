@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redux-newsfeed/static/css/main.b598513d.chunk.css",
-    "main.js": "/redux-newsfeed/static/js/main.e00fbd80.chunk.js",
-    "main.js.map": "/redux-newsfeed/static/js/main.e00fbd80.chunk.js.map",
+    "main.js": "/redux-newsfeed/static/js/main.0989663a.chunk.js",
+    "main.js.map": "/redux-newsfeed/static/js/main.0989663a.chunk.js.map",
     "runtime-main.js": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js",
     "runtime-main.js.map": "/redux-newsfeed/static/js/runtime-main.c8205b1c.js.map",
     "static/js/2.6ca99e24.chunk.js": "/redux-newsfeed/static/js/2.6ca99e24.chunk.js",
     "static/js/2.6ca99e24.chunk.js.map": "/redux-newsfeed/static/js/2.6ca99e24.chunk.js.map",
     "index.html": "/redux-newsfeed/index.html",
-    "precache-manifest.0163808e84966c8066720d9f07042456.js": "/redux-newsfeed/precache-manifest.0163808e84966c8066720d9f07042456.js",
+    "precache-manifest.f51371b1884924ed3ff5e313fc7b1ab9.js": "/redux-newsfeed/precache-manifest.f51371b1884924ed3ff5e313fc7b1ab9.js",
     "service-worker.js": "/redux-newsfeed/service-worker.js",
     "static/css/main.b598513d.chunk.css.map": "/redux-newsfeed/static/css/main.b598513d.chunk.css.map",
     "static/js/2.6ca99e24.chunk.js.LICENSE.txt": "/redux-newsfeed/static/js/2.6ca99e24.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c8205b1c.js",
     "static/js/2.6ca99e24.chunk.js",
     "static/css/main.b598513d.chunk.css",
-    "static/js/main.e00fbd80.chunk.js"
+    "static/js/main.0989663a.chunk.js"
   ]
 }
